@@ -811,6 +811,17 @@ footer{
         margin-left: auto;
         margin-right: auto;
     }
+    .div-txt h2{
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .div-txt p{
+        font-size: 15px;
+    }
+    .div-txt button{
+        font-size: 12px;
+        padding: 4px;
+    }
 }
 @media (min-width:600px) and (max-width: 900px) {
     .nav i{
