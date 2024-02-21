@@ -794,7 +794,7 @@ footer{
 @media (max-width: 600px) {
         .nav i{
         display: block;
-            
+        top: 40px;
     }
 
     .nav ul{
