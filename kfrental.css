@@ -50,6 +50,7 @@ header{
     position: fixed;
     right: 20px;
     font-size: 30px;
+    top: 20px;
 }
 .nav i:hover{
     cursor: pointer;
@@ -793,6 +794,7 @@ footer{
 @media (max-width: 600px) {
         .nav i{
         display: block;
+            
     }
 
     .nav ul{
