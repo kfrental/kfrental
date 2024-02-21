@@ -791,6 +791,41 @@ footer{
 
 
 @media (max-width: 600px) {
+        .nav i{
+        display: block;
+    }
+
+    .nav ul{
+        display: none;
+        position: fixed;
+        right: 0;
+        top: 75px;
+        background-color: #465258;
+        margin-right: 0;
+        font-size: 25px;
+        padding: 10px;
+    }
+    .nav li{
+        margin-top: 10px;
+    }
+    .nav hr{
+        display: none;
+    }
+    .txt-portada{
+        margin: 150px 0;
+    }
+    .txt-portada h1{
+        font-size: 70px;
+    }
+    #nombre{
+        width: 85%;
+    
+    }
+    #apellido{
+        width: 85%;
+        margin-left: 25px;
+    }
+    
     .div-sector{
         flex-direction: column;
     }
