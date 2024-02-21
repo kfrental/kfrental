@@ -867,7 +867,9 @@ footer{
     width: 90%;
     margin-left: 5px;
     }
-    
+    #form button{
+        color: black;
+    }
 }
 @media (min-width:600px) and (max-width: 900px) {
     .nav i{
